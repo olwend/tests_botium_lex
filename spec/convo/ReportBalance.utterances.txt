@@ -1,0 +1,5 @@
+ReportBalance
+balance
+account balance
+balance query
+how much money is in my Account

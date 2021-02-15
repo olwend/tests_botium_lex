@@ -1,0 +1,8 @@
+Test Case for: EnquireTransaction
+
+#me
+EnquireTransaction
+
+#bot
+INTENT EnquireTransaction
+

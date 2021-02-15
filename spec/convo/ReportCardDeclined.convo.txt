@@ -1,0 +1,8 @@
+Test Case for: ReportCardDeclined
+
+#me
+ReportCardDeclined
+
+#bot
+INTENT ReportCardDeclined
+

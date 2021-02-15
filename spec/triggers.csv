@@ -1,0 +1,80 @@
+EnquireAccount,current account
+EnquireAccount,isa
+EnquireAccount,check my account
+EnquireAccount,account query
+EnquireAccount,account
+EnquireAccount,check account
+EnquireAccount,account enquiry
+EnquireAccount,flex account
+EnquireAccount,savings
+EnquireAccount,to check my account
+EnquireAccount,my account
+EnquireAccount,bank account
+EnquireAccount,savings account
+EnquireAccount,checking my account
+EnquireAccount,banking
+EnquireAccount,compensation scheme
+ReportCardBlocked,card blocked from online purchase
+ReportCardBlocked,card blocked online
+ReportBalance,balance
+ReportBalance,account balance
+ReportBalance,balance query
+ReportBalance,how much money is in my Account
+ReportInternetBankingLoginProblem,i can't log onto internet banking
+ReportInternetBankingLoginProblem,i can't login to my internet banking
+ReportInternetBankingLoginProblem,unable to log into internet banking
+ReportInternetBankingLoginProblem,cannot access internet banking
+ReportInternetBankingLoginProblem,unable to access internet banking
+ReportInternetBankingLoginProblem,forgot my internet banking password
+ReportInternetBankingLoginProblem,internet banking password
+EnquireDirectDebit,direct debit
+EnquireDirectDebit,direct debits
+EnquireDirectDebit,direct debit query
+EnquireDirectDebit,direct debit enquiry
+EnquireDirectDebit,check a direct debit
+EnquireDirectDebit,a direct debit
+EnquireMoneyTransfer,money being paid into my Account
+EnquireMoneyTransfer,about transferring money to somebody else
+EnquireTransfer,transfer
+EnquireTransfer,transfers
+EnquireTransfer,a transfer
+ReportCardDeclined,card declined
+ReportCardDeclined,declined card
+EnquireLoan,loan
+EnquireLoan,personal loan
+EnquireLoan,loan application
+ReportFraud,fraud
+ReportFraud,possible fraud
+ReportFraud,fraudulent activity
+ReportFraud,card has come up unauthorised usage
+EnquireTransaction,transactions
+EnquireTransaction,transaction
+EnquireTransaction,transaction query
+EnquireTransaction,check transactions
+ReportMoneyMissing,missing money
+ReportMoneyMissing,money missing from my Account
+ReportMoneyMissing,money taken out of Account
+ReportTransactionUnknown,unknown transaction
+ReportTransactionUnknown,unknown transactions
+ReportTransactionUnknown,unknown payment
+RequestAdviser,speak to an adviser
+RequestAdviser,adviser
+RequestAdviser,customer service
+RequestAdviser,speak to adviser
+RequestAdviser,speak to someone
+EnquireMoneyTransfer,money being paid into my account
+EnquireMoneyTransfer,about transferring money to somebody else
+EnquirePayment,Payment
+EnquirePayment,payments
+EnquirePayment,payment query
+EnquirePayment,check a payment
+ReportCardNotWorking,card not working
+ReportCardNotWorking,my card isn't working
+ReportCardNotWorking,my debit card has stopped working
+ReportPaymentProblem,wrong payment
+ReportPaymentProblem,missed payment
+ReportPaymentProblem,blocked payment
+ReportPaymentProblem,incorrect payment
+ReportPaymentProblem,payment problem
+ReportPaymentProblem,stopped payment
+ReportPaymentProblem,can't make online purchases

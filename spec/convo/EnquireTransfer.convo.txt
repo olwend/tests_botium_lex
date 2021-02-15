@@ -1,0 +1,8 @@
+Test Case for: EnquireTransfer
+
+#me
+EnquireTransfer
+
+#bot
+INTENT EnquireTransfer
+

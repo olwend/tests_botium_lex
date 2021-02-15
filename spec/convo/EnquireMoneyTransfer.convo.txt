@@ -1,0 +1,8 @@
+Test Case for: EnquireMoneyTransfer
+
+#me
+EnquireMoneyTransfer
+
+#bot
+INTENT EnquireMoneyTransfer
+

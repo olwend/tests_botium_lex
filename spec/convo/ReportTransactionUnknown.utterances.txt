@@ -1,0 +1,4 @@
+ReportTransactionUnknown
+unknown transaction
+unknown transactions
+unknown payment

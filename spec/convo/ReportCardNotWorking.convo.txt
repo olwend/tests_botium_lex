@@ -1,0 +1,8 @@
+Test Case for: ReportCardNotWorking
+
+#me
+ReportCardNotWorking
+
+#bot
+INTENT ReportCardNotWorking
+

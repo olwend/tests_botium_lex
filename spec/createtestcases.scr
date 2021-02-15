@@ -1,0 +1,47 @@
+#!/bin/bash
+# ------------------------------------------
+INPUT=$1
+
+OLDIFS=$IFS
+IFS=','
+
+if [[ $INPUT == "" ]] 
+	then 
+	INPUT="triggers.csv"
+fi
+
+CurrentIntent="None"
+
+rm *.txt >& /dev/null
+
+while read intent utterance
+do
+	if [[ "$intent" == "$CurrentIntent" ]]
+	then
+		# append utterances for test case
+                echo "$utterance" >> "$intent".utterances.txt
+
+	else
+                CurrentIntent="$intent"
+
+		# write descriptor and first utterance for test case
+		echo "Creating test cases for $intent"
+
+		intent_utt="$intent".utterances.txt
+                echo "$intent" > $intent_utt
+		echo "$utterance" >> $intent_utt
+
+                # write convo for test case
+		convofile="$intent".convo.txt
+		echo "Test Case for: $intent" > $convofile
+                echo "" >> $convofile
+                echo "#me" >> $convofile
+		echo "$intent" >> $convofile
+                echo "" >> $convofile 
+                echo "#bot" >> $convofile 
+		echo "INTENT $intent" >> $convofile
+		echo "" >> $convofile
+	fi
+
+done < $INPUT
+IFS=$OLDIFS

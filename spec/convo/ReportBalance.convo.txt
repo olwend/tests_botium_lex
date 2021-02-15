@@ -1,0 +1,8 @@
+Test Case for: ReportBalance
+
+#me
+ReportBalance
+
+#bot
+INTENT ReportBalance
+

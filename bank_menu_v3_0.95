@@ -1,0 +1,101 @@
+
+
+  Botium Test-Suite
+    ✓ Test Case for: EnquireAccount/EnquireAccount-L01 (383ms)
+    ✓ Test Case for: EnquireAccount/EnquireAccount-L02 (230ms)
+    ✓ Test Case for: EnquireAccount/EnquireAccount-L03 (270ms)
+    ✓ Test Case for: EnquireAccount/EnquireAccount-L04 (248ms)
+    ✓ Test Case for: EnquireAccount/EnquireAccount-L05 (160ms)
+    ✓ Test Case for: EnquireAccount/EnquireAccount-L06 (252ms)
+    ✓ Test Case for: EnquireAccount/EnquireAccount-L07 (240ms)
+    ✓ Test Case for: EnquireAccount/EnquireAccount-L08 (260ms)
+    ✓ Test Case for: EnquireAccount/EnquireAccount-L09 (216ms)
+    ✓ Test Case for: EnquireAccount/EnquireAccount-L10 (172ms)
+    ✓ Test Case for: EnquireAccount/EnquireAccount-L11 (242ms)
+    ✓ Test Case for: EnquireAccount/EnquireAccount-L12 (251ms)
+    ✓ Test Case for: EnquireAccount/EnquireAccount-L13 (258ms)
+    ✓ Test Case for: EnquireAccount/EnquireAccount-L14 (189ms)
+    ✓ Test Case for: EnquireAccount/EnquireAccount-L15 (164ms)
+    1) Test Case for: EnquireAccount/EnquireAccount-L16
+    ✓ Test Case for: EnquireDirectDebit/EnquireDirectDebit-L1 (186ms)
+    ✓ Test Case for: EnquireDirectDebit/EnquireDirectDebit-L2 (162ms)
+    ✓ Test Case for: EnquireDirectDebit/EnquireDirectDebit-L3 (169ms)
+    ✓ Test Case for: EnquireDirectDebit/EnquireDirectDebit-L4 (188ms)
+    ✓ Test Case for: EnquireDirectDebit/EnquireDirectDebit-L5 (191ms)
+    ✓ Test Case for: EnquireDirectDebit/EnquireDirectDebit-L6 (181ms)
+    ✓ Test Case for: EnquireLoan/EnquireLoan-L1 (196ms)
+    ✓ Test Case for: EnquireLoan/EnquireLoan-L2 (165ms)
+    ✓ Test Case for: EnquireLoan/EnquireLoan-L3 (168ms)
+    ✓ Test Case for: EnquireMoneyTransfer/EnquireMoneyTransfer-L1 (188ms)
+    ✓ Test Case for: EnquireMoneyTransfer/EnquireMoneyTransfer-L2 (216ms)
+    ✓ Test Case for: EnquirePayment/EnquirePayment-L1 (145ms)
+    ✓ Test Case for: EnquirePayment/EnquirePayment-L2 (159ms)
+    ✓ Test Case for: EnquirePayment/EnquirePayment-L3 (549ms)
+    ✓ Test Case for: EnquirePayment/EnquirePayment-L4 (170ms)
+    ✓ Test Case for: EnquireTransaction/EnquireTransaction-L1 (201ms)
+    ✓ Test Case for: EnquireTransaction/EnquireTransaction-L2 (160ms)
+    ✓ Test Case for: EnquireTransaction/EnquireTransaction-L3 (162ms)
+    ✓ Test Case for: EnquireTransaction/EnquireTransaction-L4 (160ms)
+    ✓ Test Case for: EnquireTransfer/EnquireTransfer-L1 (164ms)
+    ✓ Test Case for: EnquireTransfer/EnquireTransfer-L2 (161ms)
+    ✓ Test Case for: EnquireTransfer/EnquireTransfer-L3 (163ms)
+    ✓ Test Case for: ReportBalance/ReportBalance-L1 (170ms)
+    ✓ Test Case for: ReportBalance/ReportBalance-L2 (178ms)
+    ✓ Test Case for: ReportBalance/ReportBalance-L3 (161ms)
+    ✓ Test Case for: ReportBalance/ReportBalance-L4 (180ms)
+    ✓ Test Case for: ReportCardBlocked/ReportCardBlocked-L1 (270ms)
+    ✓ Test Case for: ReportCardBlocked/ReportCardBlocked-L2 (183ms)
+    ✓ Test Case for: ReportCardDeclined/ReportCardDeclined-L1 (187ms)
+    ✓ Test Case for: ReportCardDeclined/ReportCardDeclined-L2 (184ms)
+    ✓ Test Case for: ReportCardNotWorking/ReportCardNotWorking-L1 (181ms)
+    ✓ Test Case for: ReportCardNotWorking/ReportCardNotWorking-L2 (196ms)
+    ✓ Test Case for: ReportCardNotWorking/ReportCardNotWorking-L3 (177ms)
+    ✓ Test Case for: ReportFraud/ReportFraud-L1 (160ms)
+    ✓ Test Case for: ReportFraud/ReportFraud-L2 (196ms)
+    ✓ Test Case for: ReportFraud/ReportFraud-L3 (173ms)
+    ✓ Test Case for: ReportFraud/ReportFraud-L4 (197ms)
+    ✓ Test Case for: ReportInternetBankingLoginProblem/ReportInternetBankingLoginProblem-L1 (185ms)
+    ✓ Test Case for: ReportInternetBankingLoginProblem/ReportInternetBankingLoginProblem-L2 (193ms)
+    ✓ Test Case for: ReportInternetBankingLoginProblem/ReportInternetBankingLoginProblem-L3 (180ms)
+    ✓ Test Case for: ReportInternetBankingLoginProblem/ReportInternetBankingLoginProblem-L4 (262ms)
+    ✓ Test Case for: ReportInternetBankingLoginProblem/ReportInternetBankingLoginProblem-L5 (182ms)
+    ✓ Test Case for: ReportInternetBankingLoginProblem/ReportInternetBankingLoginProblem-L6 (192ms)
+    ✓ Test Case for: ReportInternetBankingLoginProblem/ReportInternetBankingLoginProblem-L7 (181ms)
+    ✓ Test Case for: ReportMoneyMissing/ReportMoneyMissing-L1 (171ms)
+    ✓ Test Case for: ReportMoneyMissing/ReportMoneyMissing-L2 (186ms)
+    ✓ Test Case for: ReportMoneyMissing/ReportMoneyMissing-L3 (230ms)
+    ✓ Test Case for: ReportPaymentProblem/ReportPaymentProblem-L1 (173ms)
+    ✓ Test Case for: ReportPaymentProblem/ReportPaymentProblem-L2 (165ms)
+    ✓ Test Case for: ReportPaymentProblem/ReportPaymentProblem-L3 (177ms)
+    ✓ Test Case for: ReportPaymentProblem/ReportPaymentProblem-L4 (172ms)
+    ✓ Test Case for: ReportPaymentProblem/ReportPaymentProblem-L5 (173ms)
+    ✓ Test Case for: ReportPaymentProblem/ReportPaymentProblem-L6 (168ms)
+    ✓ Test Case for: ReportPaymentProblem/ReportPaymentProblem-L7 (183ms)
+    ✓ Test Case for: ReportTransactionUnknown/ReportTransactionUnknown-L1 (164ms)
+    ✓ Test Case for: ReportTransactionUnknown/ReportTransactionUnknown-L2 (165ms)
+    ✓ Test Case for: ReportTransactionUnknown/ReportTransactionUnknown-L3 (179ms)
+    ✓ Test Case for: RequestAdviser/RequestAdviser-L1 (177ms)
+    ✓ Test Case for: RequestAdviser/RequestAdviser-L2 (180ms)
+    ✓ Test Case for: RequestAdviser/RequestAdviser-L3 (166ms)
+    ✓ Test Case for: RequestAdviser/RequestAdviser-L4 (180ms)
+    ✓ Test Case for: RequestAdviser/RequestAdviser-L5 (183ms)
+
+
+  77 passing (16s)
+  1 failing
+
+  1) Botium Test-Suite
+       Test Case for: EnquireAccount/EnquireAccount-L16:
+     Error: Test Case for: EnquireAccount/EnquireAccount-L16/Line 6: assertion error - Line 6: Expected intent "EnquireAccount" but found nothing
+########################################
+ASSERTION FAILED in IntentAsserter - Expected: "EnquireAccount"  - Actual: empty
+INPUT: compensation scheme
+------------ TRANSCRIPT ----------------------------
+#me: compensation scheme
+#bot: Sorry, can you please repeat that?
+      at wrapBotiumError (/usr/local/lib/node_modules/botium-cli/src/run/index.js:76:12)
+      at finish (/usr/local/lib/node_modules/botium-cli/src/run/index.js:205:24)
+      at /usr/local/lib/node_modules/botium-cli/src/run/index.js:218:11
+
+
+

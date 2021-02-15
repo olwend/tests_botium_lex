@@ -1,0 +1,8 @@
+Test Case for: ReportTransactionUnknown
+
+#me
+ReportTransactionUnknown
+
+#bot
+INTENT ReportTransactionUnknown
+

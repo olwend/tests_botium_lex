@@ -1,0 +1,59 @@
+  ____     ___    _____   ___   _   _   __  __ 
+ | __ )   / _ \  |_   _| |_ _| | | | | |  \/  |
+ |  _ \  | | | |   | |    | |  | | | | | |\/| |
+ | |_) | | |_| |   | |    | |  | |_| | | |  | |
+ |____/   \___/    |_|   |___|  \___/  |_|  |_|
+                                               
+Chatbot online.
+Enter "#SAVE <conversation name>" to save your conversation into your convo-directory, #EXIT to quit or just a message to send to your Chatbot
+
+compensation scheme
+
+BOT SAYS RICH MESSAGE (default): {
+  "contentType": "text/plain; charset=utf-8",
+  "intentName": "EnquireAccount",
+  "nluIntentConfidence": {
+    "score": 0.93
+  },
+  "alternativeIntents": [
+    {
+      "intentName": "EnquirePayment",
+      "nluIntentConfidence": {
+        "score": 0.87
+      },
+      "slots": {}
+    },
+    {
+      "intentName": "RequestAdviser",
+      "nluIntentConfidence": {
+        "score": 0.76
+      },
+      "slots": {}
+    },
+    {
+      "intentName": "ReportCardBlocked",
+      "nluIntentConfidence": {
+        "score": 0.53
+      },
+      "slots": {}
+    },
+    {
+      "intentName": "EnquireDirectDebit",
+      "nluIntentConfidence": {
+        "score": 0.51
+      },
+      "slots": {}
+    }
+  ],
+  "slots": {},
+  "sessionAttributes": {},
+  "dialogState": "ReadyForFulfillment",
+  "botVersion": "4",
+  "sessionId": "2021-02-02T09:26:54.136Z-XJwABUSW",
+  "activeContexts": null,
+  "audioStream": {
+    "type": "Buffer",
+    "data": []
+  }
+}
+

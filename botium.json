@@ -1,0 +1,15 @@
+{
+  "botium": {
+    "Capabilities": {
+      "PROJECTNAME": "LEX example",
+      "CONTAINERMODE": "lex",
+      "LEX_REGION": "eu-west-2",
+      "LEX_ACCESS_KEY_ID": "",
+      "LEX_SECRET_ACCESS_KEY": "",
+      "LEX_PROJECT_NAME": "bank_menu",
+      "LEX_PROJECT_ALIAS": "BankMenu"
+    },
+    "Sources": {},
+    "Envs": {}
+  }
+}

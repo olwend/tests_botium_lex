@@ -1,0 +1,8 @@
+Test Case for: EnquirePayment
+
+#me
+EnquirePayment
+
+#bot
+INTENT EnquirePayment
+

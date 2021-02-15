@@ -1,0 +1,8 @@
+Test Case for: ReportInternetBankingLoginProblem
+
+#me
+ReportInternetBankingLoginProblem
+
+#bot
+INTENT ReportInternetBankingLoginProblem
+

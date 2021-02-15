@@ -1,0 +1,5 @@
+EnquirePayment
+Payment
+payments
+payment query
+check a payment

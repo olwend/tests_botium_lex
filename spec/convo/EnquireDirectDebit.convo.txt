@@ -1,0 +1,8 @@
+Test Case for: EnquireDirectDebit
+
+#me
+EnquireDirectDebit
+
+#bot
+INTENT EnquireDirectDebit
+

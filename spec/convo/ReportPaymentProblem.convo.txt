@@ -1,0 +1,8 @@
+Test Case for: ReportPaymentProblem
+
+#me
+ReportPaymentProblem
+
+#bot
+INTENT ReportPaymentProblem
+

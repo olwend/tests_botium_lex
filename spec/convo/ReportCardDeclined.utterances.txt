@@ -1,0 +1,3 @@
+ReportCardDeclined
+card declined
+declined card

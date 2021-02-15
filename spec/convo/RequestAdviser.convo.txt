@@ -1,0 +1,8 @@
+Test Case for: RequestAdviser
+
+#me
+RequestAdviser
+
+#bot
+INTENT RequestAdviser
+

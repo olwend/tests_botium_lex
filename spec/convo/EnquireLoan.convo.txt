@@ -1,0 +1,8 @@
+Test Case for: EnquireLoan
+
+#me
+EnquireLoan
+
+#bot
+INTENT EnquireLoan
+

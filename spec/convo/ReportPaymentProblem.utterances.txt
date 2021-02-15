@@ -1,0 +1,8 @@
+ReportPaymentProblem
+wrong payment
+missed payment
+blocked payment
+incorrect payment
+payment problem
+stopped payment
+can't make online purchases

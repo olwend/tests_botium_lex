@@ -1,0 +1,8 @@
+Test Case for: ReportFraud
+
+#me
+ReportFraud
+
+#bot
+INTENT ReportFraud
+

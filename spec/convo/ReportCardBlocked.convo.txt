@@ -1,0 +1,8 @@
+Test Case for: ReportCardBlocked
+
+#me
+ReportCardBlocked
+
+#bot
+INTENT ReportCardBlocked
+
